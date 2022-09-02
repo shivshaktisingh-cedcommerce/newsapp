@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+   /* background-image: url("/public/back1.png"); */
+   
+ 
+  min-height: 60vw;;
+}
+body{
+  background-color: #131722;
+ 
+}
+html{
+  scroll-behavior: smooth;
+}
+*{
+  margin:0;
+}
